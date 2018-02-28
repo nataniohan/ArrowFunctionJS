@@ -1,0 +1,3 @@
+const nome = 'Natan'
+const up = z => z.toUpperCase()
+console.log(`Eii... ${z(' cuidado '+ nome)} !`)
